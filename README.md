@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajpai25&label=Profile%20views&color=0e75b6&style=flat" alt="bajpai25" /> </p>
 
-- 🌱 I’m currently learning **Shad CDN , Clerk**
+- 🌱 I’m currently learning **Shad CN , Clerk**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-new-weld-omega.vercel.app](https://portfolio-new-weld-omega.vercel.app)
 
